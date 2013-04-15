@@ -1,0 +1,40 @@
+/*--
+Tags
+--*/
+
+body{
+	font: 12px/14px Helvetica, Arial, sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+p{
+	margin-bottom: 10px;
+}
+
+
+
+/*--
+Classes
+--*/
+
+.hidden{
+	display: none;
+}
+
+.ir{
+	display: block;
+	text-indent: -99999px;
+}
+
+
+
+/*--
+Layout
+--*/
+
+#wrap{
+
+}
